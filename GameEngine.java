@@ -265,7 +265,7 @@ public abstract class GameEngine implements KeyListener,MouseListener,MouseMotio
 //+================================================================================+
 //| RENDERING METHODS                                                              |
 //+================================================================================+	
-	public static int INVISIBLE = new Color(145, 132, 176).getRGB();
+	public int INVISIBLE = new Color(145, 132, 176).getRGB();
 
 	public void update() {
 		g.drawImage(image, 0, 0, canvas.getWidth(), canvas.getHeight(), null);
