@@ -15,7 +15,7 @@ This is a simple game engine implemented in Java, providing a basic framework fo
 
 To use this game engine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/game-engine.git`
+1. Clone the repository: `git clone https://github.com/JustBobinAround/CJGE.git`
 2. Open the project in your preferred Java IDE.
 3. Extend the class just like you would a JFrame, and let your IDE add the unimplemented methods.
 4. Build and run the project.
