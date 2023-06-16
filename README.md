@@ -7,10 +7,6 @@ By not having to worry about messing with importing libraries and such, your lif
 simply download the class and add it to your project source. Extend the class just like you would a JFrame, and 
 let your IDE add the unimplemented methods.
 
-# Usage
-
-This is a simple game engine implemented in Java, providing a basic framework for creating games. It handles rendering, input events (keyboard and mouse), and game updates. The engine is designed to be extended by a concrete game implementation.
-
 ## Getting Started
 
 To use this game engine, follow these steps:
